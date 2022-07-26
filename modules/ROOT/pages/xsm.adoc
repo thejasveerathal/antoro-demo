@@ -1,7 +1,7 @@
 = XSM
 :example-caption!:
 
-You can add the following inline styles to your content:
+This is demo documentation
 
 * Bold
 * Italic

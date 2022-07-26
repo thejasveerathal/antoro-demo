@@ -3,6 +3,6 @@
 * xref:organization-management.adoc[]
 * xref:role-management.adoc[]
 * xref:user-management.adoc[]
-* Lists
+* Advance API Management
 ** xref:advance-api-management/api-publisher.adoc[]
 ** xref:advance-api-management/api-developer.adoc[]
