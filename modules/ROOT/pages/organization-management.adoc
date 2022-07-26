@@ -1,4 +1,4 @@
-= Admonition
+= Organization Management
 
 == Admonition styles
 

@@ -1,4 +1,4 @@
-= Special Characters and Symbols
+= Domain Management
 :table-caption!:
 
 Special character and symbol replacement is built into Asciidoctor.

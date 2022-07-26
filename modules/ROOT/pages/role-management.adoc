@@ -1,4 +1,4 @@
-= Sidebar
+= Role Management
 
 == Sidebar block
 

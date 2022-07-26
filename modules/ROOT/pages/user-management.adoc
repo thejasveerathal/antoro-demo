@@ -1,4 +1,4 @@
-= User Interface Macros
+= User Management
 :example-caption!:
 
 Asciidoctor has three user interface (UI) macros:
